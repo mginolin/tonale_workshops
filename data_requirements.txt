@@ -1,0 +1,7 @@
+Clone every GitHub repository in a `data` repository inside `tonale_workshops`. Some of these are quite heavy so try to do it beforehand with a good connexion.
+
+Pantheon+ (from GitHub, https://github.com/PantheonPlusSH0ES)
+ZTF SN Ia DR2 (from https://ztfcosmo.in2p3.fr/ + create a environment variable named ZTFCOSMODIR pointing to the ztfsniadr2 directory you just created (e.g., ‘tonale_workshops/data/ztf/ztfsniadr2’))
+LSST Opsim (from https://s3df.slac.stanford.edu/data/rubin/sim-data/sims_featureScheduler_runs5.3/ , download the `baseline` file)
+Optional: 
+DES5Y (from GitHub, https://github.com/des-science/DES-SN5YR/tree/main)

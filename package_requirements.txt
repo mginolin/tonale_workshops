@@ -1,0 +1,15 @@
+Most of these packages are pip installable, but some might require conda install, or in last recourse just download the GitHub repo and install from it. Check you can import all of those. 
+
+
+scipy
+numpy
+pandas
+matplotlib
+ztfcosmo
+iminuit
+astropy
+emcee
+skysurvey
+standax (this will need to be downloaded from GitHub at https://github.com/mginolin/standax)
+sncosmo (this might need additional requirements, see https://sncosmo.readthedocs.io/en/stable/install.html)
+cosmologix (optional, this will need to be downloaded form Gitlab at https://gitlab.in2p3.fr/lemaitre/cosmologix/-/tree/master/cosmologix?ref_type=heads)
